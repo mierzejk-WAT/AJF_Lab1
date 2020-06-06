@@ -1,0 +1,6 @@
+C:\Users\mbry_dell\Desktop\new-master\new-master\OddCalculator\obj\Debug\netcoreapp3.1\GrammarLexer.cs
+C:\Users\mbry_dell\Desktop\new-master\new-master\OddCalculator\obj\Debug\netcoreapp3.1\GrammarParser.cs
+C:\Users\mbry_dell\Desktop\new-master\new-master\OddCalculator\obj\Debug\netcoreapp3.1\GrammarListener.cs
+C:\Users\mbry_dell\Desktop\new-master\new-master\OddCalculator\obj\Debug\netcoreapp3.1\GrammarBaseListener.cs
+C:\Users\mbry_dell\Desktop\new-master\new-master\OddCalculator\obj\Debug\netcoreapp3.1\GrammarVisitor.cs
+C:\Users\mbry_dell\Desktop\new-master\new-master\OddCalculator\obj\Debug\netcoreapp3.1\GrammarBaseVisitor.cs
